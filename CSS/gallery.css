@@ -1,0 +1,6 @@
+.gallery img{
+    width: 20vw;
+    height: 20vh;
+    border-radius: 60px;
+    padding: 10px;
+}
